@@ -1,0 +1,211 @@
+2017-10-10 14:47:05,129 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-10-10 14:48:03,588 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 14:48:12,910 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:12,925 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:48:13,009 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:48:13,205 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:13,207 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:48:20,378 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:20,380 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:48:20,393 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:48:20,499 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:20,500 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:48:21,771 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:21,775 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:48:21,793 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:48:21,963 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:21,965 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:48:23,680 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:23,688 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:48:23,757 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:48:23,929 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:23,931 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:48:25,579 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:25,581 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:48:25,593 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:48:25,768 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:25,769 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:48:28,319 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:28,322 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:48:28,333 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:48:28,473 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:48:28,474 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:51:24,481 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 14:51:32,448 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:51:32,458 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:51:32,460 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:51:32,470 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:51:32,471 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:51:32,484 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 14:51:32,486 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 14:51:32,770 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:51:46,922 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:51:46,950 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:51:47,023 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:51:47,509 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:51:47,510 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:52:49,294 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:52:49,315 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:52:49,373 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:52:49,413 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:52:49,414 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:53:36,047 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:53:36,066 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:53:36,093 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:53:36,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:53:36,122 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:53:49,466 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 14:53:52,863 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 14:53:59,600 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/main/java
+2017-10-10 14:53:59,602 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 14:53:59,604 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 14:53:59,607 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/test/java
+2017-10-10 14:54:08,815 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CSRUtility
+2017-10-10 14:54:09,015 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2017-10-10 14:54:14,139 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:54:14,142 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:54:14,207 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:54:14,421 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:54:14,422 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:54:14,424 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 14:54:14,424 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 14:54:14,442 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:54:20,651 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:54:20,676 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:54:20,678 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:54:20,685 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:54:20,686 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:55:11,646 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 14:55:18,395 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:18,405 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:55:18,407 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:55:18,415 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:18,417 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:55:18,418 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 14:55:18,419 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 14:55:18,437 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:21,199 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:21,216 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:55:21,265 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:55:21,425 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:21,426 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:55:48,014 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 14:55:54,703 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:54,713 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:55:54,715 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:55:54,722 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:55:54,723 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:55:54,724 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 14:55:54,724 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 14:55:54,736 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:56:10,877 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 14:56:13,791 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 14:56:20,281 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/main/java
+2017-10-10 14:56:20,282 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 14:56:20,283 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 14:56:20,285 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/test/java
+2017-10-10 14:56:25,131 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CSRUtility
+2017-10-10 14:56:25,165 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2017-10-10 14:56:32,493 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:56:32,496 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 14:56:32,558 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 14:56:32,794 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:56:32,795 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:56:32,796 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 14:56:32,797 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 14:56:32,813 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:57:57,019 [JavaFX Application Thread] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-10 14:58:03,446 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java Workspace\SpringCsr\CSRUtility
+2017-10-10 14:58:03,447 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package
+2017-10-10 14:59:11,797 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:59:11,803 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:59:11,804 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 14:59:11,811 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 14:59:11,812 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 14:59:19,591 [JavaFX Application Thread] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-10 14:59:19,943 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java Workspace\SpringCsr\CSRUtility
+2017-10-10 14:59:19,944 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package
+2017-10-10 15:00:47,546 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 15:00:53,903 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:00:53,910 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 15:00:53,911 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 15:00:53,919 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:00:53,920 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:00:53,943 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 15:00:55,823 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 15:01:01,592 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/main/java
+2017-10-10 15:01:01,593 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 15:01:01,595 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 15:01:01,598 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/test/java
+2017-10-10 15:01:06,035 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CSRUtility
+2017-10-10 15:01:06,070 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2017-10-10 15:01:13,473 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:01:13,477 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 15:01:13,531 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 15:01:13,724 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:01:13,725 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:01:13,726 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 15:01:13,728 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 15:01:13,751 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:01:32,225 [JavaFX Application Thread] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-10 15:01:32,585 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java Workspace\SpringCsr\CSRUtility
+2017-10-10 15:01:32,586 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package
+2017-10-10 15:03:29,729 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 15:03:35,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:03:35,766 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 15:03:35,768 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 15:03:35,775 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:03:35,776 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:03:35,777 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 15:03:35,777 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 15:03:35,790 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:03:41,583 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:03:41,608 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 15:03:41,664 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 15:03:41,884 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:03:41,884 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:04:52,895 [JavaFX Application Thread] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2017-10-10 15:04:53,279 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Java Workspace\SpringCsr\CSRUtility
+2017-10-10 15:04:53,280 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package
+2017-10-10 15:06:14,772 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 15:06:22,054 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:06:22,066 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 15:06:22,068 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-10-10 15:06:22,075 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:06:22,076 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:06:22,116 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 15:06:24,143 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 15:06:30,906 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/main/java
+2017-10-10 15:06:30,907 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 15:06:30,908 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 15:06:30,910 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/test/java
+2017-10-10 15:06:35,819 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CSRUtility
+2017-10-10 15:06:35,870 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2017-10-10 15:06:43,867 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:06:43,870 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 15:06:43,923 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 15:06:44,107 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:06:44,107 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:06:44,109 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 15:06:44,109 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 15:06:44,126 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:06:48,739 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 15:06:51,555 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sam.org:csrUtility:0.0.1-SNAPSHOT @ C:\Java Workspace\SpringCsr\CSRUtility\pom.xml.
+2017-10-10 15:07:03,625 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/main/java
+2017-10-10 15:07:03,627 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 15:07:03,628 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CSRUtility/src/main/resources
+2017-10-10 15:07:03,631 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CSRUtility/src/test/java
+2017-10-10 15:07:08,056 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CSRUtility
+2017-10-10 15:07:08,094 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 19 sec
+2017-10-10 15:07:15,048 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:07:15,051 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 15:07:15,110 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 15:07:15,296 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:07:15,297 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Java Workspace\SpringCsr\CSRUtility\src\test\resources
+2017-10-10 15:07:15,299 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CSRUtility
+2017-10-10 15:07:15,300 [Worker-22] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CSRUtility
+2017-10-10 15:07:15,313 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:08,536 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 15:09:08,559 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-10-10 15:09:08,584 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-10-10 15:09:08,603 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
