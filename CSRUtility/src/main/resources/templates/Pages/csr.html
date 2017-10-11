@@ -626,7 +626,7 @@ console.log(postData);
 
 $.ajax({
 	method: "POST",
-  url: "/genCsr",
+  url: "/csrUtility-0.0.1-SNAPSHOT/genCsr",
   contentType:"application/json",
   dataType:"json",
   data: JSON.stringify(postData),
@@ -637,8 +637,8 @@ $.ajax({
   	if(data.csr.startsWith("-----BEGIN CERTIFICATE REQUEST-----")){
   		$("#csrDownload").prop("disabled", false);
   		$("#privateKeyDownload").prop("disabled", false);
-  	  $("#csrDownload").attr("href","/downloadCsr?csr="+data.csr);
-  	$("#privateKeyDownload").attr("href","/downloadPrivateKey?privateKey="+data.privateKey);
+  	  $("#csrDownload").attr("href","/csrUtility-0.0.1-SNAPSHOT/downloadCsr?csr="+data.csr);
+  	$("#privateKeyDownload").attr("href","/csrUtility-0.0.1-SNAPSHOT/downloadPrivateKey?privateKey="+data.privateKey);
   	$("#downloadCert").prop("disabled", false);
   	FileName = data.fileName;
   	
@@ -652,7 +652,7 @@ $("#downloadCert").click(function(){
 	var csrValue = $("#csr").val();
 	if(csrValue.startsWith("-----BEGIN CERTIFICATE REQUEST-----")){
 	if(isPositiveInteger(validityPeriodValue)){
-		$("#downloadCert").attr("href","/downloadCert?fileName="+FileName+"&validityPeriod="+validityPeriodValue);
+		$("#downloadCert").attr("href","/csrUtility-0.0.1-SNAPSHOT/downloadCert?fileName="+FileName+"&validityPeriod="+validityPeriodValue);
 		$("#downloadCert").click();
 	}else{
 		window.alert("Enter validity period as No. of days");
